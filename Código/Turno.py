@@ -1,8 +1,8 @@
 import copy
 import random
-from collections import namedtuple
 from Dado import *
-from Interface_Grafica import Interface_Turno
+from collections import namedtuple
+from Interface import Interface_Turno
 
 class Turno:
 
