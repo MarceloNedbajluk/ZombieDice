@@ -1,8 +1,8 @@
 from Dado import Dado_Verde, Dado_Vermelho, Dado_Amarelo
 from Turno import Turno
 from collections import namedtuple
+from Interface import Interface_Rodada
 import random
-from Interface_Grafica import Interface_Rodada
 
 class Rodada:
 
