@@ -1,6 +1,7 @@
 from Jogador import Jogador
 from Rodada import Rodada
 from Interface import Interface_Jogo
+
 class Jogo:
 
     def __init__ (self):
